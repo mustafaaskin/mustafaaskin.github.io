@@ -17,5 +17,5 @@ OECD tarafından paylaşılan ülkerin yıllara göre ihracatın içindeki ithal
 
 ### 2. Ülke Sınıflama Haritası / Country Classification Map
 
-<img src="/images/Harita_1.png?raw=true"/>
+<img src="../images/Harita_1.png?raw=true"/>
 
