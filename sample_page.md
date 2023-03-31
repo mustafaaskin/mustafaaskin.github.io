@@ -19,4 +19,4 @@ Versiyon 6. Daha sonraki versiyonlar için Github adresinden takip etmelisiniz.
 
 ### 2. Tablo Görseli
 
-<img src="images/Resim_1.png?raw=true"/
+<img src="images/Resim_1.png?raw=true"/>
