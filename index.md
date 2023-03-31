@@ -8,7 +8,7 @@
 <img src="images/Resim_1.png?raw=true"/>
 
 ---
-[Project 2 Money Creation in Modern Eoonomy, Bank of England](/pdf/modern_economy_money.pdf)
+[Project 2 Money Creation in Modern Economy, Bank of England](/pdf/modern_economy_money.pdf)
 <img src="images/banknot_1.png?raw=true"/>
 
 ---
