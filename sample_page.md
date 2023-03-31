@@ -17,11 +17,11 @@ Deprem sonrası ekonomik durum analizleri ve işgücü, sermaye ilişkisi üzeri
 
 Versiyon 6. Daha sonraki versiyonlar için Github adresinden takip etmelisiniz.
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 2. Tablo Görseli / Table View
 
 <img src="images/Resim_1.png?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
+### 3. Provide a basis for further data collection through surveys or experiments
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
