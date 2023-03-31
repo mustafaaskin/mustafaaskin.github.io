@@ -8,8 +8,8 @@
 <img src="images/Resim_1.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2 Money Creation in Modern Eoonomy, Bank of England](/pdf/modern_economy_money.pdf)
+<img src="images/banknot_1.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
