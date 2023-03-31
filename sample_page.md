@@ -1,24 +1,13 @@
 ## Medium Articles
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** Deprem sonrası ekonomik durum analizleri ve işgücü, sermaye ilişkisi üzerine cari ekonomik durum analizleri yapabilmek için halihazırda kullanılmakta olan 2012 girdi çıktı tablosunu genişlettim ve revize ettim. Hazırladığım 2022 input output tablosunun son halini ekli excel dosyası olarak sunuyorum. Github adresinden indirebilirsiniz.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+### 1. Medium Yazısı
 
-### 2. Assess assumptions on which statistical inference will be based
+[Project 1 Turkiye 2022 Domestic Input-Output Table](https://medium.com/@mustafaaskin1981/2022-türkiye-yurtiçi-girdi-çıktı-tablosu-8a672a02a380)
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
