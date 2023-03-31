@@ -21,7 +21,7 @@
 ---
 
 
-[Project 4 İhracat İçinde İthal İçeriği Ülke Analizi](/sample_page)
+[Project 4 İhracat İçinde İthal İçeriği Ülke Analizi](/sample_pages/sample_page_2)
 <br><br>
 <img src="images/Harita_1.png?raw=true"/>
 
