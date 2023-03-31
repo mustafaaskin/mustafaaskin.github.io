@@ -20,6 +20,13 @@
 
 ---
 
+
+[Project 4 İhracat İçinde İthal İçeriği Ülke Analizi](/sample_page)
+<br><br>
+<img src="images/Harita_1.png?raw=true"/>
+
+---
+
 ### Other Presentations and Projects 2
 
 - [Project 1 Title](http://example.com/)
