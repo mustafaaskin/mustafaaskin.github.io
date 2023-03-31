@@ -12,8 +12,8 @@
 <img src="images/banknot_1.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3 Run Python File in Excel](/excel_file/RUN_PY_1.xlsm)
+<img src="Eng_V1.png?raw=true"/>
 
 ---
 
