@@ -1,8 +1,6 @@
 ## Turkiye Statistical Office Expertise Thesis
 <p align="justify">
-<h3>**Thesis Abstract:** </h3>
-
-The early forecast releases of growth rates before the classical calender releases while
+<b>Thesis Abstract:**</b> The early forecast releases of growth rates before the classical calender releases while
 using new methodologies have been observed in countries with developed financial
 markets. The tracked methodology are called as flash estimation method. This method
 makes the earlier estimation and publication of GDP growth accounts for three months,
@@ -32,7 +30,7 @@ increase the healthy estimate production by increasing the observation numbers, 
 estimate sharing with public and trust. 
 </p>
 <p align="justify">
-<h3>**Tez Özeti:**</h3>
+<b>**Tez Özeti:**</b>
 Gelişmiş finansal piyasalara sahip ekonomilerde Gayri Safi Yurtiçi Hasıla (GSYİH)
 büyüme oranlarının yeni yöntemlerle geleneksel veri yayınlama takviminden daha önce
 öngörülerek kamuoyu ile paylaşıldığı gözlenmektedir. İzlenen bu yöntem “öntahmin
