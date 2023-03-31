@@ -8,6 +8,11 @@
 
 [Project 1 Turkiye 2022 Domestic Input-Output Table](https://medium.com/@mustafaaskin1981/2022-türkiye-yurtiçi-girdi-çıktı-tablosu-8a672a02a380)
 
+[Proje'nin Github Adresi](https://github.com/mustafaaskin/InputOutput_2022_Turkiye_1)
+
+[Proje  Tablonun Excel Hali. ](https://github.com/mustafaaskin/InputOutput_2022_Turkiye_1/blob/main/input_output_yurtici_2022_Turkiye_v06.xlsx?raw=true)
+
+Versiyon 6. Daha sonraki versiyonlar için Github adresinden takip etmelisiniz.
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
