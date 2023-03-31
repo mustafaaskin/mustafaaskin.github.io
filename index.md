@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Medium Articles and Projects 1 
 
 [Project 1 2022 Domestic Input-Output Table](/sample_page)
 <img src="images/Resim_1.png?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Other Presentations and Projects 2
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
