@@ -1,10 +1,13 @@
 ## Medium Articles
 
-**Project description:** Deprem sonrası ekonomik durum analizleri ve işgücü, sermaye ilişkisi üzerine cari ekonomik durum analizleri yapabilmek için halihazırda kullanılmakta olan 2012 girdi çıktı tablosunu genişlettim ve revize ettim. Hazırladığım 2022 input output tablosunun son halini ekli excel dosyası olarak sunuyorum. Github adresinden indirebilirsiniz.
+**Project description:** I expanded and revised the current 2012 input-output table in order to analyze the post-earthquake economic situation and the current economic situation on the labor-capital relationship. I present the final version of the 2022 input output table I prepared as an attached excel file. You can download it from Github.
+
+**Proje Açıklaması:**
+Deprem sonrası ekonomik durum analizleri ve işgücü, sermaye ilişkisi üzerine cari ekonomik durum analizleri yapabilmek için halihazırda kullanılmakta olan 2012 girdi çıktı tablosunu genişlettim ve revize ettim. Hazırladığım 2022 input output tablosunun son halini ekli excel dosyası olarak sunuyorum. Github adresinden indirebilirsiniz.
 
 
 
-### 1. Medium Yazısı
+### 1. Medium Article/Yazısı
 
 [Project 1 Turkiye 2022 Domestic Input-Output Table](https://medium.com/@mustafaaskin1981/2022-türkiye-yurtiçi-girdi-çıktı-tablosu-8a672a02a380)
 
