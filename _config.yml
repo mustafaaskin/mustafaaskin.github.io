@@ -7,5 +7,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/mustafa-a%C5%9Fkin-13258a46/">View My LinkedIn Profile</a> 
   
+   <a href="https://github.com/mustafaaskin">View My Github Profile</a> 
+  
+  <a href="https://medium.com/@mustafaaskin1981">View My Medium Profile</a> 
+
+  
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
