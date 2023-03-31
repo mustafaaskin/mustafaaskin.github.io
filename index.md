@@ -29,8 +29,9 @@
 
 ### Other Academic Works, Presentations and Projects 2
 
--  Uzmanlık Tezi / Expert Thesis 1 Title
-- [Türkiye GSYİH öntahmininin ülke uygulamalarına göre değerlendirilmesi, yeni uygulamaların belirlenmesi ve hesaplanabilirliği](/sample_pages/sample_page_2)
+-  Expertise Thesis /Uzmanlık Tezi 
+-  Estimation of Türkiye's GDP forecast according to country practices, determination and calculability of new practices
+- [Türkiye GSYİH öntahmininin ülke uygulamalarına göre değerlendirilmesi, yeni uygulamaların belirlenmesi ve hesaplanabilirliği](/sample_pages/sample_page_3)
 <br><br>
 <img src="images/indir_qr_1.png?raw=true"/>
 - [Project 2 Title](http://example.com/)
