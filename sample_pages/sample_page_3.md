@@ -69,13 +69,13 @@ paylaşmak hem de gözlem sayısının artması bakımından yararlı olabilecek
 
 ### 2. Thesis is available online on TurkStat library  / Tez TÜİK kütüphanesinden online erişilebilir
 
-<img src="images/tez_2.png?raw=true"/>
+<img src="../images/tez_2.png?raw=true"/>
 
-### 3. Provide a basis for further data collection through surveys or experiments
+### 3. Thesis QR code and Last Paragraph / Tezin QR kodu ve son paragrafı
 QR Code For Thesis 
  Tez için QR Kodu
  <br><br>
-<img src="images/tez_1.jpg?raw=true"/>
+<img src="../images/tez_1.jpg?raw=true"/>
 
 "As a result of this thesis study, it was concluded that the production of a predictive indicator for Türkiye
 concluded that it is possible. In the production of this data, various statistical and
