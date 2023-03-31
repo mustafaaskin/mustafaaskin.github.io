@@ -1,5 +1,5 @@
 ## Turkiye Statistical Office Expertise Thesis
-
+<p align="justify">
 **Thesis Abstract:** The early forecast releases of growth rates before the classical calender releases while
 using new methodologies have been observed in countries with developed financial
 markets. The tracked methodology are called as flash estimation method. This method
@@ -28,7 +28,8 @@ in practice of time series analysis. For that reasons, while two years period as
 practice in worldwide, the following the flash estimate and forecast success could be
 increase the healthy estimate production by increasing the observation numbers, healthy
 estimate sharing with public and trust. 
-
+</p>
+<p align="justify">
 **Tez Özeti:**
 Gelişmiş finansal piyasalara sahip ekonomilerde Gayri Safi Yurtiçi Hasıla (GSYİH)
 büyüme oranlarının yeni yöntemlerle geleneksel veri yayınlama takviminden daha önce
@@ -59,7 +60,7 @@ zaman sorun oluşturabilmektedir. Bu nedenle öngörülerin dünya uygulamaları
 paralel olarak iki yıl gibi bir süre ile izlenmesi hem sağlıklı öngörüleri kamuoyu ile
 paylaşmak hem de gözlem sayısının artması bakımından yararlı olabilecektir
 
-
+</p>
 
 ### 1. Expert Thesis / Uzmanlık Tezi
  Estimation of Türkiye’s GDP forecast according to country practices, determination and calculability of new practices 
