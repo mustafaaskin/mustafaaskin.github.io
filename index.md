@@ -4,7 +4,7 @@
 
 ### Medium Articles and Projects 1 
 
-[Project 1 2022 Domestic Input-Output Table](/sample_page)
+[Project 1 Turkiye 2022 Domestic Input-Output Table](/sample_page)
 <br><br>
 <img src="images/Resim_1.png?raw=true"/>
 
