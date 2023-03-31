@@ -1,4 +1,4 @@
-## Turkiye Statistical Office Expert Thesis
+## Turkiye Statistical Office Expertise Thesis
 
 **Thesis Abstract:** The early forecast releases of growth rates before the classical calender releases while
 using new methodologies have been observed in countries with developed financial
