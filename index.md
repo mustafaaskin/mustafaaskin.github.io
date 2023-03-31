@@ -29,7 +29,10 @@
 
 ### Other Presentations and Projects 2
 
-- [Project 1 Title](http://example.com/)
+-  Uzmanlık Tezi / Expert Thesis 1 Title
+- [Türkiye GSYİH öntahmininin ülke uygulamalarına göre değerlendirilmesi, yeni uygulamaların belirlenmesi ve hesaplanabilirliği](/sample_pages/sample_page_2)
+<br><br>
+<img src="images/indir_qr_1.png?raw=true"/>
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
