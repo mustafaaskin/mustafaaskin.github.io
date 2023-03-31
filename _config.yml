@@ -7,9 +7,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/mustafa-a%C5%9Fkin-13258a46/">View My LinkedIn Profile</a> 
   
-   <a href="https://github.com/mustafaaskin">View My Github Profile</a> 
+  <br><br>
   
   <a href="https://medium.com/@mustafaaskin1981">View My Medium Profile</a> 
+  
+  <br><br>
 
   
 theme: jekyll-theme-minimal
