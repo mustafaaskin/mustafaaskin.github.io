@@ -27,7 +27,7 @@
 
 ---
 
-### Other Presentations and Projects 2
+### Other Academic Works, Presentations and Projects 2
 
 -  Uzmanlık Tezi / Expert Thesis 1 Title
 - [Türkiye GSYİH öntahmininin ülke uygulamalarına göre değerlendirilmesi, yeni uygulamaların belirlenmesi ve hesaplanabilirliği](/sample_pages/sample_page_2)
