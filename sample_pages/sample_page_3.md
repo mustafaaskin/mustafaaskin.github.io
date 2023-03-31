@@ -75,6 +75,8 @@ paylaşmak hem de gözlem sayısının artması bakımından yararlı olabilecek
 QR Code For Thesis 
  Tez için QR Kodu
  <br><br>
+ <img src="../images/indir_qr_1.png?raw=true"/>
+ <br><br>
 <img src="../images/tez_1.jpg?raw=true"/>
 
 "As a result of this thesis study, it was concluded that the production of a predictive indicator for Türkiye
