@@ -70,12 +70,14 @@ paylaşmak hem de gözlem sayısının artması bakımından yararlı olabilecek
 ### 2. Thesis is available online on TurkStat library  / Tez TÜİK kütüphanesinden online erişilebilir
 
 <img src="../images/tez_2.png?raw=true"/>
-
-### 3. Thesis QR code and Last Paragraph / Tezin QR kodu ve son paragrafı
-QR Code For Thesis 
- Tez için QR Kodu
+<br><br>
+QR Code For Thesis / 
+Tez için QR Kodu
  <br><br>
  <img src="../images/indir_qr_1.png?raw=true"/>
+
+### 3. Last Paragraph / Son paragraf
+
  <br><br>
 <img src="../images/tez_1.jpg?raw=true"/>
 
