@@ -62,7 +62,7 @@ paylaşmak hem de gözlem sayısının artması bakımından yararlı olabilecek
 
 
 ### 1. Expert Thesis / Uzmanlık Tezi
-
+ Estimation of Türkiye’s GDP forecast according to country practices, determination and calculability of new practices
 [Thesis 1 Türkiye GSYİH öntahmininin ülke uygulamalarına göre değerlendirilmesi, yeni uygulamaların belirlenmesi ve hesaplanabilirliği](https://kutuphane.tuik.gov.tr/yordambt/yordam.php)
 
 
