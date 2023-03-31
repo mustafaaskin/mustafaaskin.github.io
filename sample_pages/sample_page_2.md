@@ -11,20 +11,11 @@ OECD tarafından paylaşılan ülkerin yıllara göre ihracatın içindeki ithal
 
 ### 1. Medium Article/Yazısı
 
-[Project 1 Turkiye 2022 Domestic Input-Output Table](https://medium.com/@mustafaaskin1981/2022-türkiye-yurtiçi-girdi-çıktı-tablosu-8a672a02a380)
+[Project 3 İhracat İçinde İthal İçeriği Ülke Analizi](https://medium.com/@mustafaaskin1981/i̇hracat-i̇çinde-i̇thal-i̇çeriği-ülke-analizi-df5993653aaf)
 
-[Proje'nin Github Adresi](https://github.com/mustafaaskin/InputOutput_2022_Turkiye_1)
 
-[Proje  Tablonun Excel Hali. ](https://github.com/mustafaaskin/InputOutput_2022_Turkiye_1/blob/main/input_output_yurtici_2022_Turkiye_v06.xlsx?raw=true)
 
-Versiyon 6. Daha sonraki versiyonlar için Github adresinden takip etmelisiniz.
+### 2. Ülke Sınıflama Haritası / Country Classification Map
 
-### 3. Support the selection of appropriate statistical tools and techniques
+<img src="images/Harita_1.png?raw=true"/>
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
