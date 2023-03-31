@@ -17,4 +17,6 @@ Deprem sonrası ekonomik durum analizleri ve işgücü, sermaye ilişkisi üzeri
 
 Versiyon 6. Daha sonraki versiyonlar için Github adresinden takip etmelisiniz.
 
+### 2. Tablo Görseli
 
+<img src="../images/Resim_1.png?raw=true"/
